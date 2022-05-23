@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Drull</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Drull</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2022 10:13:24 -0300</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://example.org/tags/cybersecurity/</link>
+      <pubDate>Mon, 23 May 2022 10:13:24 -0300</pubDate>
+      
+      <guid>http://example.org/tags/cybersecurity/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Hacking</title>
+      <link>http://example.org/tags/hacking/</link>
+      <pubDate>Mon, 23 May 2022 10:13:24 -0300</pubDate>
+      
+      <guid>http://example.org/tags/hacking/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>OSINT</title>
+      <link>http://example.org/tags/osint/</link>
+      <pubDate>Mon, 23 May 2022 10:13:24 -0300</pubDate>
+      
+      <guid>http://example.org/tags/osint/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
