@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Drull</title>
-    <link>http://example.org/posts/</link>
+    <link>https://drull1000.github.io/posts/</link>
     <description>Recent content in Posts on Drull</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 May 2022 10:13:24 -0300</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 10:13:24 -0300</lastBuildDate><atom:link href="https://drull1000.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Full OSINT Guide</title>
-      <link>http://example.org/posts/full-osint-guide/full-osint-guide/</link>
+      <link>https://drull1000.github.io/posts/full-osint-guide/full-osint-guide/</link>
       <pubDate>Mon, 23 May 2022 10:13:24 -0300</pubDate>
       
-      <guid>http://example.org/posts/full-osint-guide/full-osint-guide/</guid>
+      <guid>https://drull1000.github.io/posts/full-osint-guide/full-osint-guide/</guid>
       <description>How to do OSINT - A brief introduction. This is a collection of everything I have learned about OSINT from various resources over the internet. Be aware that some of the tools presented here may change or stop working with time, which is normal. The most important thing you should get out of this is to learn the methods used and be able to replicate them.
 The goal of this guide is to show the path one should follow when doing research on a target.</description>
       <content>&lt;h1 id=&#34;how-to-do-osint---a-brief-introduction&#34;&gt;How to do OSINT - A brief introduction.&lt;/h1&gt;
